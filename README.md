@@ -4,7 +4,7 @@ I'm Crispian, a final year MEng Engineering Mathematics student at the [Universi
 
 [![crispian's GitHub stats](https://github-readme-stats.vercel.app/api?username=crispianm&theme=dark&show_icons=true&count_private=true&icon_color=ffffff&bg_color=0d1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![crispian's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crispianm&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&hide=jupyter_notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![crispian's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crispianm&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&hide=Jupyter Notebook)](https://github.com/anuraghazra/github-readme-stats)N
 
 ## Contact Me
 
