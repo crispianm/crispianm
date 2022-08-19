@@ -1,18 +1,18 @@
-### Hi there 👋
+### Hi!
 
-<!--
-**crispianm/crispianm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Crispian, a final year MEng Engineering Mathematics student at the [University of Bristol][1].
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![crispian's GitHub stats](https://github-readme-stats.vercel.app/api?username=crispianm&theme=dark&show_icons=true&count_private=true&icon_color=ffffff&bg_color=0d1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+[![crispian's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crispianm&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+
+- [Website][2]
+- [LinkedIn][3]
+- [Email][4]
+
+[1]:https://www.bristol.ac.uk
+[2]:https://crispianm.github.io/
+[3]:https://www.linkedin.com/in/crispian-morris/
+[4]:mailto:crispian.morris@gmail.com
