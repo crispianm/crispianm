@@ -10,9 +10,7 @@ I'm Crispian, a first year Computer Science PhD student at the [University of Br
 
 - [Website][2]
 - [LinkedIn][3]
-- [Email][4]
 
 [1]:https://www.bristol.ac.uk
 [2]:https://crispianm.github.io/
 [3]:https://www.linkedin.com/in/crispian-morris/
-[4]:mailto:crispian.morris@gmail.com
