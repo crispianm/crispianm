@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm Crispian, a first year Computer Science PhD student at the [University of Bristol][1].
+I'm Crispian, a second year Computer Science PhD student at the [University of Bristol][1].
 
 [![GitHub stats:](https://github-readme-stats-sigma-five.vercel.app/api?username=crispianm&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
